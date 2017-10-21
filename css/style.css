@@ -16,6 +16,10 @@ nav {
   font-weight: 600;
 }
 
+.more {
+  display: none;
+}
+
 .navbar-brand {
   color: #ea6c56;
   text-decoration: none;
