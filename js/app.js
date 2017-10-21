@@ -86,4 +86,8 @@ for (var i = 0; i< tablica.length; i++) {
 }
 //DOM Api  Document Object Model
 
-var ppp = document.querySelector
+var ppp = document.querySelector(".jumotron");  //jego jeszcze nie ma
+console.log( ppp )
+ppp.style.border = "3px solid red"
+
+var divs
